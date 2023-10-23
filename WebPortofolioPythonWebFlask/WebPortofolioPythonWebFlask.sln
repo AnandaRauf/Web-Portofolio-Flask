@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebPortofolioPythonWebFlask", "WebPortofolioPythonWebFlask\WebPortofolioPythonWebFlask.pyproj", "{51D9DE0D-B74E-420B-884F-5C9BCF774C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51D9DE0D-B74E-420B-884F-5C9BCF774C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D9DE0D-B74E-420B-884F-5C9BCF774C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D9DE0D-B74E-420B-884F-5C9BCF774C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D9DE0D-B74E-420B-884F-5C9BCF774C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA6842F-9AE9-4308-92C6-5E88F465CB65}
+	EndGlobalSection
+EndGlobal
